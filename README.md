@@ -1,4 +1,4 @@
- This is a simple Discord bot to ping a role/user when a message is sent in a specified channel.
+# This is a simple Discord bot to ping a role/user when a message is sent in a specified channel.
 
 1. Set your token in pinger.py on line 7.
 
