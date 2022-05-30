@@ -4,6 +4,6 @@
 
 ##2. Set the Role ID, for the rold you want to ping, on line 32.  This can easily be changed to a user or @everyone what ever works for you.
 
-##3. Put the channel ID's of the cahnnel you want to monitor in channelID.txt.
+##3. Put the channel ID's of the channel you want to monitor in channelID.txt.
 
 ##THATS IT!!###
