@@ -7,3 +7,12 @@
 3. Put the channel ID's of the channel(s) you want to monitor in channelID.txt.
 
 ----------THATS IT!!-----------
+
+    _.-._         ..-..         _.-._
+   (_-.-_)       /|'.'|\       (_'.'_)
+ mrf.\-/.        \)\-/(/        ,-.-.
+ __/ /-. \__   __/ ' ' \__   __/'-'-'\__
+( (___/___) ) ( (_/-._\_) ) ( (_/   \_) )
+ '.Oo___oO.'   '.Oo___oO.'   '.Oo___oO.'
+
+ see no evil   hear no evil  speak no evil
