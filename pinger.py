@@ -29,6 +29,6 @@ async def on_message(message):
            return
         if message.content.startswith(''):
            print (message.content)
-           await message.channel.send(content = "<@&980628909131448390>")
+           await message.channel.send(content = "<@&ROLE_ID>")
 
 client.run(token)
